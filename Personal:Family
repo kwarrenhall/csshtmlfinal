@@ -1,0 +1,25 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello world!</title>
+  </head>
+  <body>
+    <h1>My first web page</h1>
+    <h2>Written with the help of epicodus</h2>
+
+
+    <p>This is my first web page!</p>
+    <p>isn't it nice!</p>
+
+    <p>Here are some things I'm going to learn:</p>
+      <img src="img/malek copy.jpeg" alt="a photo of malek and jo.">
+
+    <ul>
+     <li>HTML</li>
+     <li>1</li>
+     <li>2</li>
+     <li>3</li>
+    </ul>
+ </body>
+</html>
