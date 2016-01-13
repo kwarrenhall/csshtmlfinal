@@ -1,0 +1,51 @@
+h1 {
+text-align: center;
+color: red;
+  }
+
+h2 {
+text-align: center;
+color: blue;
+Font-style: italic;
+}
+
+p {
+text-align: center;
+color: grey;
+}
+
+p.primary {
+text-align: center;
+color: grey;
+}
+
+p.primary {
+text-align: center;
+font-weight: bold;
+color: grey;
+}
+
+ul{
+    width:75px;
+    margin:0 auto;
+    text-align:left;
+}
+
+img {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+    height: auto;
+    width: auto;
+    max-width: 300px;
+    max-height: 300px;
+}
+
+img2{
+    max-width: 100px;
+    max-height: 100px;
+}
+.column {
+  width: 900 px;
+  float: left;
+}
